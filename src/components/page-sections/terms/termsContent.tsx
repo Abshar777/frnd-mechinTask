@@ -1,10 +1,10 @@
 const TermsContentSection = () => {
-    
+
   return (
     <section className="pb-14 md:pb-16 lg:pb-[88px] xl:pb-[200px] pt-[100px]">
       <div className="main-container">
         <div data-ns-animate data-delay="0.3" className="space-y-3">
-          {/* <h2>Terms & conditions</h2> */}
+         
           <div className="space-y-7">
             <p>
               This site, I, Saras.com (hereafter referred to as I, Saras, site,

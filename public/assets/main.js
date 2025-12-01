@@ -2654,8 +2654,8 @@ function init() {
   };
   if (typeof window !== "undefined") {
     console.log("window is defined handleTocListClicks ✅✅✅");
-    // smoothScrolling();
-    // lenisSmoothScrollLinks();
+    smoothScrolling();
+    lenisSmoothScrollLinks();
     handleTocListClicks();
     numberFn();
     leaflet.init();
